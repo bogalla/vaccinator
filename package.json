@@ -1,0 +1,23 @@
+{
+  "name": "vaccinator",
+  "version": "1.0.0",
+  "description": "keep track of vaccines in this web app - javascript/react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogalla/vaccinator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bogalla/vaccinator/issues"
+  },
+  "homepage": "https://github.com/bogalla/vaccinator#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
